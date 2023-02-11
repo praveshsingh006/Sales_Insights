@@ -14,6 +14,6 @@
 
   - In our BI Dashboard, we can see that the Atliq Hardware revenue is declining every year.
 
-  - We can the Top 5 Customers and the Top 5 Products who are giving most of the revenue.
+  - We can see the Top 5 Customers and the Top 5 Products who are giving most of the revenue.
 
   - We can check the revenue by year from 2017 to 2020 and also by month.
