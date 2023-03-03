@@ -1,6 +1,6 @@
 ## Sales Insights Of AtliQ Hardware
 
-- This project begins with loading the dumped sql file from the **datasets** folder and the sql file **db_dump.sql** imported to **Microsoft BI** for easy, **cleaning of the data or data cleaning**, **filtering** and **visualization**, and **analysis** on **Microsoft PowerBI**
+- This project begins with loading the dumped sql file from the **datasets** folder and the sql file **db_dump.sql** imported to **Microsoft BI**, **data cleaning**, **data filtering** done in **Power Query Editior** and **visualization**, and **analysis** done in **Microsoft PowerBI**
 
 - Images of visualizations performed can be seen in the **report_images** folder and pdf can be seen in the **reports** folder
 
